@@ -5,4 +5,4 @@ var d="789";
 var e="def";
 
 console.log(a+b);
-console.log(c);
+console.log(c+d+e);
